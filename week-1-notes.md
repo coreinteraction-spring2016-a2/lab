@@ -2,7 +2,7 @@
 
 ## Technologies
 
-We'll be primarily using three technologies this semester, HTML, CSS, and Javascript.
+We'll be primarily using three technologies this semester: HTML, CSS, and Javascript.
 
 
 HTML | CSS | Javascript
