@@ -45,7 +45,7 @@ The simplest way to add CSS to your page is to use the `style` element. Here's w
 </style>
 ```
 
-Here's a chunk of CSS:
+Let's look at a chunk of CSS:
 ```css
 /* Rule 1*/
 div {
