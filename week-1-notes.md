@@ -15,7 +15,7 @@ HTML documents are made up of tags. An html tag is a piece of text with angle br
 <input>
 ````
 
-Most of the time you'll use tags in pairs that consist of an opening tag and a closing tag. The closing tag of an element is always the same as the opening tag, but with a forward slash in front. Here's an example of the tag pair used to create a simple box element (called a div):
+Most of the time you'll use tags in pairs that consist of an opening tag and a closing tag. The closing tag of an element is always the same as the opening tag, but with a forward slash after the leading angle bracket. Here's an example of the tag pair used to create a simple box element (called a div):
 ````html
 <div></div>
 ````
