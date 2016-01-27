@@ -9,7 +9,7 @@ Everything to do with Core Interaction: Lab. If it's not here, it doesn't exist!
 [Class assignment](week-1-class-assignment.md)  
 [Homework](week-1-class-homework.md)
 
-## Other
+## Other Resources
 
 [Snippets](./snippets.md)  
 [Saving work to Github](./saving-to-github.md)  
