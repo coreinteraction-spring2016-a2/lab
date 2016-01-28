@@ -7,7 +7,7 @@ Everything to do with Core Interaction: Lab. If it's not here, it doesn't exist!
 [Notes](week-1-notes.md)  
 [Sample code](week-1-sample-code.html)  
 [Class assignment](week-1-class-assignment.md)  
-[Homework](week-1-class-homework.md)
+[Homework](week-1-homework.md)
 
 ## Other Resources
 
