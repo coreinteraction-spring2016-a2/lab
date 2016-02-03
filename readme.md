@@ -12,6 +12,7 @@ Everything to do with Core Interaction: Lab. If it's not here, it doesn't exist!
 ## Week 2
 
 [Notes](week-2/week-2-notes.md)
+[Homework](week-2/week-2-homework.md)
 
 ## Other
 
