@@ -9,6 +9,10 @@ Everything to do with Core Interaction: Lab. If it's not here, it doesn't exist!
 [Class assignment](week-1/week-1-class-assignment.md)  
 [Homework](week-1/week-1-class-homework.md)
 
+## Week 2
+
+[Notes](week-2/week-2-notes.md)
+
 ## Other
 
 [Snippets](./snippets.md)  
