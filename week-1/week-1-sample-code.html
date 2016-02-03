@@ -2,6 +2,11 @@
 
 <head>
   <style>
+    body {
+      margin: 0;
+      background-color: purple;
+    }
+
     .first-line {
       font-family: Arial;
       color: red;
@@ -24,8 +29,8 @@
       background: lime;
     }
 
-    .purple-background {
-      background: purple;
+    .extra-padding {
+      padding: 60px;
     }
   </style>
 </head>
@@ -41,8 +46,8 @@
 
   <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
   <script>
-    $('.first-line').click(function () {
-      $(this).toggleClass('purple-background');
+    $('.second-line').click(function () {
+      $(this).toggleClass('extra-padding');
     });
   </script>
 </body>

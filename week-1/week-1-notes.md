@@ -1,21 +1,21 @@
-## Week 1 Notes
+# Week 1 Notes
 
-### Technologies
+## Technologies
 
-We'll be primarily using three technologies this semester, HTML, CSS, and Javascript.
+We'll be primarily using three technologies this semester: HTML, CSS, and Javascript.
 
 
 HTML | CSS | Javascript
 ---- | --- | ----------
 HTML stands for HyperText Markup language. You'll use it to author the content of your sites. | CSS stands for Cascading Style Sheets. You'll use it to style the content of your sites. | Javascript is the name of a scripting language and does not stand for anything, although you'll sometimes see it abbreviated as JS. You'll use it to add interactivity to your sites.
 
-### HTML
+## HTML
 HTML documents are made up of tags. An html tag is a piece of text with angle brackets (<>) on each side. It looks something like this:
 ````html
 <input>
 ````
 
-Most of the time you'll use tags in pairs that consist of an opening tag and a closing tag. The closing tag of an element is always the same as the opening tag, but with a forward slash in front. Here's an example of the tag pair used to create a simple box element (called a div):
+Most of the time you'll use tags in pairs that consist of an opening tag and a closing tag. The closing tag of an element is always the same as the opening tag, but with a forward slash after the leading angle bracket. Here's an example of the tag pair used to create a simple box element (called a div):
 ````html
 <div></div>
 ````
@@ -36,7 +36,7 @@ Elements can contain other elements or text. Here's an example of a `div` elemen
 </div>
 ````
 
-### CSS
+## CSS
 
 The simplest way to add CSS to your page is to use the `style` element. Here's what that looks like:
 ```html
@@ -45,7 +45,7 @@ The simplest way to add CSS to your page is to use the `style` element. Here's w
 </style>
 ```
 
-Here's a chunk of CSS:
+Let's look at a chunk of CSS:
 ```css
 /* Rule 1*/
 div {
@@ -109,7 +109,7 @@ background-color | Color of the element background.
 margin | Space between element and other elements.
 padding | Space between element content and outer edge of element.
 
-### Javascript
+## Javascript
 
 The simplest way to add Javascript to your page is to use the `script` element. Here's what that looks like:
 ````html
