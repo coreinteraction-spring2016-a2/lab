@@ -12,6 +12,8 @@ Everything to do with Core Interaction: Lab. If it's not here, it doesn't exist!
 ## Week 2
 
 [Notes](week-2/week-2-notes.md)
+[Sample code](week-2/week-2-sample-code)
+[Class assignment](week-2/week-2-class-assignment.md)
 [Homework](week-2/week-2-homework.md)
 
 ## Other

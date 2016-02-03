@@ -2,11 +2,9 @@
 
 You should create a **new repository** under your Github account named `cis16` for this assignment. Be sure to create and switch to the `gh-pages ` branch before committing any code.
 
-## Overview 
+## Process
 
 Create a site to house your classwork.
-
-## Criteria
 
 Your site should consist of:
 
