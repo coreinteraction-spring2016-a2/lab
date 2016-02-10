@@ -115,9 +115,12 @@ The inner `div` would be positioned 10 pixels from the top and 10 pixels from th
 
 [See live demo](https://jsbin.com/qawubi/2/edit?html,css,output)
 
+#### Filling a parent element
+
 One neat thing you can do with `position: absolute` is set all four offset properties (again, `top`, `bottom`, `left`, and `right`) to create an element that fills all or most of its parent container.
 
 For example, given the CSS:
+
 ```css
 .outer-element {
 	position: relative;
@@ -143,6 +146,42 @@ And the HTML:
 The inner element would fill the outer element with a 10 pixel offset around its edges.
 
 [See live](https://jsbin.com/kopavo/1/edit?html,css,output)
+
+#### Centering with position: absolute
+
+It's possible to center elements of known width and height using `position: absolute`.
+
+Here's an example. Given this CSS:
+
+```css
+.container-element {
+	position: relative;
+	width: 600px;
+	height: 600px;
+}
+
+.inner-element {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	top: 50%;
+	left: 50%;
+	margin-top: -25px;
+	margin-left: -25px;
+}
+```
+
+and this HTML:
+
+```html
+<div class="container-element">
+	<div class="inner-element"></div>
+</div>
+```
+
+The inner element would be centered inside its container. Note that the negative horizontal margin is half of the element's width, and the negative vertical margin is half of its height.
+
+[See live example](https://jsbin.com/ripaduj/1/edit?html,css,output)
 
 ### Fixed
 
@@ -197,6 +236,24 @@ The first element will sit on top of the second.
 
 [See live example](https://jsbin.com/loyape/1/edit?html,css,output)
 
+## Random CSS
+
+### Border radius
+
+The `border-radius` property allows you to round the corners of elements. If you use a high enough value, you can create circles and ellipses.
+
+Here's how it looks in CSS
+
+```
+.rounded-corner-element {
+	border-radius: 10px;
+}
+```
+
+A common trick is using `border-radius: 50%;` to create a circular or ellipsoidal element.
+
+[See live example](https://jsbin.com/fehakan/1/edit?html,css,output)
+ 
 ## Further reading
 
 [http://alistapart.com/article/css-positioning-101](http://alistapart.com/article/css-positioning-101)  
