@@ -19,7 +19,10 @@ Everything to do with Core Interaction: Lab. If it's not here, it doesn't exist!
 ## Week 3
 
 [Notes](week-3/week-3-notes.md)  
-[Class assignment](week-3/week-3-class-assignment.md)  
+[Class assignment](week-3/week-3-class-assignment.md)
+
+## Week 4
+[Class assignment](week-4/week-4-class-assignment.md)
 
 ## Other
 
