@@ -1,5 +1,9 @@
 # Week 4 class assignment
 
+Folder name: `week-4-class-assignment`
+
+Download the starter folder [here](https://github.com/coreinteraction-spring2016-a2/lab/blob/gh-pages/week-4/starter.zip?raw=true).
+
 ## Use `position: relative` to recreate the following layouts:
 
 ### 1
