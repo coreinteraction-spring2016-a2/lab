@@ -24,6 +24,7 @@ Everything to do with Core Interaction: Lab. If it's not here, it doesn't exist!
 ## Week 4
 
 [Class assignment](week-4/week-4-class-assignment.md)
+[Homework](week-4/week-4-homework.md)
 
 ## Week 5
 
