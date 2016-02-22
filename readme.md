@@ -22,7 +22,14 @@ Everything to do with Core Interaction: Lab. If it's not here, it doesn't exist!
 [Class assignment](week-3/week-3-class-assignment.md)
 
 ## Week 4
+
 [Class assignment](week-4/week-4-class-assignment.md)
+
+## Week 5
+
+[Notes](week-5/week-5-notes.md)  
+[Class assignment](week-5/week-5-class-assignment.md)  
+[Homework](week-5/week-5-homework.md)
 
 ## Other
 
