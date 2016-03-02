@@ -32,7 +32,7 @@ Everything to do with Core Interaction: Lab. If it's not here, it doesn't exist!
 [Class assignment](week-5/week-5-class-assignment.md)  
 [Homework](week-5/week-5-homework.md)
 
-## Week 5
+## Week 6
 
 [Notes](week-6/week-6-notes.md)  
 [Class assignment](week-6/week-6-class-assignment.md)  
