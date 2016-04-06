@@ -37,6 +37,21 @@ Everything to do with Core Interaction: Lab. If it's not here, it doesn't exist!
 [Notes](week-6/week-6-notes.md)  
 [Class assignment](week-6/week-6-class-assignment.md)  
 
+## Week 7
+
+[Notes](week-7/week-7-notes.md)  
+[Class assignment](week-7/week-7-class-assignment.md)  
+
+## Week 8
+
+[Notes](week-8/week-8-notes.md)  
+[Class assignment](week-8/week-8-class-assignment.md)  
+
+## Week 9
+
+[Notes](week-9/week-9-notes.md)  
+[Class assignment](week-9/week-9-class-assignment.md)  
+
 ## Other
 
 [Snippets](./snippets.md)  
